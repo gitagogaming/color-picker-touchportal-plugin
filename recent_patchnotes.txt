@@ -1,0 +1,3 @@
+The Notes...
+lower memory used by plugin
+smaller plugin file size
