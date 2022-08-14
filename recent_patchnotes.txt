@@ -8,6 +8,6 @@ Change Color Naming Style - Basic, Full, Best Of (30k+ names)
 Save and Load multiple color palettes from file
 
 ### NEW STATES
-Current Color Text Style
-Current Loaded Config 
-Last X and Y location of mouse when color selected
+Current Color Text Style - .state.current_text_name_style
+Current Loaded Config  - .state.config_loaded
+Last X and Y location of mouse when color selected  -  .state.last_mouse_x / .state.last_mouse_y
