@@ -1,3 +1,3 @@
-The Notes...
-lower memory used by plugin
-smaller plugin file size
+added option to create multiple color palettes to load from  (need to do)
+over 27k NEW color names
+Fixed duplicates in config file when saving
