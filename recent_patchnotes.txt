@@ -1,3 +1,4 @@
-over 27k NEW color names
+New Action: Change Color Naming Style - Basic, Full, Best Of (30k+ names)
+Newly created states now have their own group
 Fixed duplicates in config file when saving
 added option to create multiple color palettes to load from  (need to do)
