@@ -24,7 +24,7 @@
 # Features
 - Copy colors to clipboard or use in other places (RGB / HEX / INT / NAME)
 - Quick and easy access to any color you can see on your monitors.
-- Change color sources in OBS Studio based on mouse input
+- Change color sources in OBS Studio based on mouse input with OBSint
 
 ## Actions
 
