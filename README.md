@@ -27,38 +27,19 @@
 # Features
 
 ## Actions
-<details open id='tp.plugin.color_picker.mainactions'><summary><b>Category:</b> Color Picker / Eye Dropper Tool <small><ins>(Click to expand)</ins></small></summary><table>
-<tr valign='buttom'><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/></th><th>On<br/>Hold</sub></div></th></tr>
-<tr valign='top'><td>Color Picker / Eye Dropper Tool</td><td> </td><td>Get Color From Mouse and save to [1]</td><td><ol start=1><li>Type: choice &nbsp; <br>
-Default: <b>0</b><br> Possible choices: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10']</li>
-</ol></td>
-<td align=center>No</td>
-<tr valign='top'><td>Save/Load Colors</td><td> </td><td>[1] colors to OR from file to [2]</td><td><ol start=1><li>Type: choice &nbsp; 
-Default: <b>Save</b> Possible choices: ['Save', 'Load']</li>
-<li>Type: file &nbsp; 
-Default: <b>Default</b></li>
-</ol></td>
-<td align=center>No</td>
-<tr valign='top'><td>Get Color from position X, Y</td><td> </td><td>Get Color From Position X:[1]  Y:[2] Value Name: [3]</td><td><ol start=1><li>Type: number &nbsp; 
-Default: <b>0</b> &nbsp; <b>Min Value:</b> -2147483648 &nbsp; <b>Max Value:</b> 2147483647</li>
-<li>Type: number &nbsp; 
-Default: <b>0</b> &nbsp; <br><b>Min Value:</b> -2147483648 &nbsp; <br><b>Max Value:</b> 2147483647</li>
-<li>
-<b>Select Custom Name</b></li>
-</ol></td>
-<td align=center>No</td>
-<tr valign='top'><td>Copy Color to Clipboard</td><td> </td><td>Copy [2] to clipboard from Button [1]</td><td><ol start=1><li>Type: choice &nbsp; 
-Default: <b>Current</b> Possible choices: ['Current', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10']</li>
-<li>Type: choice &nbsp; 
-Default: <b>HEX</b> Possible choices: ['HEX', 'RGB', 'INT', 'NAME', 'OBS']</li>
-</ol></td>
-<td align=center>No</td>
-<tr valign='top'><td>Change Name Style</td><td> </td><td>Change the naming style to:[1]</td><td><ol start=1><li>Type: choice &nbsp; 
-Default: <b>Basic</b> Possible choices: ['Basic', 'Full', 'Best of']</li>
-</ol></td>
-<td align=center>No</td>
-</tr></table></details>
-<br>
+
+<details id='tp.plugin.color_picker.mainactions'><summary><b>Category:</b> Color Picker / Eye Dropper Tool <small><ins>(Click to expand)</ins></small></summary>
+
+
+| Action Name | Description | Format | Data | On Hold | 
+| --- | --- | --- | --- | --- |
+| Get Color From Mouse | Color Picker: Text Name Style | Get Color From Mouse and save to [1]  |  1. Type: choice<Br> Default: 0<br> Possible choices: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] |  No |
+| Save/Load Colors | Color Picker: Last Mouse Location - X | [1] colors to OR from file to [2] | 1. Type: choice<br>Default: Save <br>Possible choices: ['Save', 'Load'] 2. Type: file   Default: Default  |  No |
+| Get Color from (X, Y) | Color Picker: Last Mouse Location - Y | Get Color From Position X:[1] Y:[2] Value Name: [3] | 1. Type: number Default: 0 <br>Min Value: -50000 / Max Value: 50000 <br>2. Type: number<br>Default: 0 <br>3. Select Custom Name  | No  |
+| Copy Color to Clipboard | Color Picker: Current Config Loaded | Copy [2] to clipboard from Button [1] | 1. Type: choice   Default: Current Possible choices: ['Current', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] <br> 2. Type: choice <br>Default: HEX Possible choices: ['HEX', 'RGB', 'INT', 'NAME', 'OBS']  |  No |
+| Change Name Style | Color Picker: Current Config Loaded | Change the naming style to:[1] | 1. Type: choice <br> Default: Basic Possible choices: ['Basic', 'Full', 'Best of']  |  No |
+</details>
+
 
 ## States
 <details id='tp.plugin.color_picker.mainstates'><summary><b>Category:</b> Color Picker / Eye Dropper Tool <small><ins>(Click to expand)</ins></small></summary>
