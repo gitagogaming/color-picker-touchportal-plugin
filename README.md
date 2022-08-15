@@ -2,11 +2,11 @@
 
 
 # Color Picker for TouchPortal
-- [On Screen Color Picker](#On-Screen-Color-Picker)
+- [Color Picker](#On-Screen-Color-Picker)
   - [Description](#description) 
   - [Features](#Features)
     - [Actions](#actions)
-        - [Color Picker / Eye Dropper Tool](#tp.plugin.color_picker.mainactions)
+        - [Primary Actions](#tp.plugin.color_picker.mainactions)
     - [States](#states)
         - [Color Picker / Eye Dropper Tool](#tp.plugin.color_picker.mainstates)
         - [Color Picker | Current](#tp.plugin.color_picker.currentstates)
