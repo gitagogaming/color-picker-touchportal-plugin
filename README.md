@@ -10,8 +10,7 @@
     - [States](#states)
         - [Color Picker / Eye Dropper Tool](#tp.plugin.color_picker.mainstates)
         - [Color Picker | Current](#tp.plugin.color_picker.currentstates)
-        - [Color Picker | Color 1](#tp.plugin.color_picker.color1states)
-        - [Color Picker | Color 2-10](#tp.plugin.color_picker.color2states)
+        - [Color Picker | Color 1-10](#tp.plugin.color_picker.color1states)
   - [Bugs and Support](#bugs-and-suggestion)
   - [License](#license)
   
