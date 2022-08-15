@@ -25,9 +25,6 @@
 - Copy colors to clipboard or use in other places (RGB / HEX / INT / NAME)
 - Quick and easy access to any color you can see on your monitors.
 
-<br>
-
-
 ## Actions
 
 <details id='tp.plugin.color_picker.mainactions'><summary><b>Category:</b> Color Picker / Eye Dropper Tool <small><ins>(Click to expand)</ins></small></summary>
