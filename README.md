@@ -7,12 +7,15 @@
   - [Features](#Features)
     - [Actions](#actions)
         - [Primary Actions](#tp.plugin.color_picker.mainactions)
+        - [Save / Load Colors](#tp.plugin.color_picker.mainactions)
+        - [Get Position from (X,Y)](#tp.plugin.color_picker.mainactions)
+        - [Copy Color to Clipboard](#tp.plugin.color_picker.mainactions)
+        - [Change Name Style](#tp.plugin.color_picker.mainactions)
     - [States](#states)
-        - [Color Picker / Eye Dropper Tool](#tp.plugin.color_picker.mainstates)
+        - [Color Picker | Main States](#tp.plugin.color_picker.mainstates)
         - [Color Picker | Current](#tp.plugin.color_picker.currentstates)
         - [Color Picker | Color 1-10](#tp.plugin.color_picker.color1states)
   - [Bugs and Support](#bugs-and-suggestion)
-  - [License](#license)
   
 # Description
 
