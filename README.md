@@ -18,13 +18,15 @@
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
-## **Get Color from Anything on your monitors and utilize the color code for it.**
-- Quick and easy access to any color you can see on your monitors.
-- Simply hover your mouse over it and click the action inside of touch portal<br>
-- Copy colors to clipboard or use in other places (RGB / HEX / INT / TEXT)
-
+ **Get Color from ANYTHING on your monitors and utilize the color code for it.**
+ <br>Simply hover your mouse over it and click the action inside of Touch Portal and the states will be populated for that button
 
 # Features
+- Copy colors to clipboard or use in other places (RGB / HEX / INT / NAME)
+- Quick and easy access to any color you can see on your monitors.
+
+<br>
+
 
 ## Actions
 
