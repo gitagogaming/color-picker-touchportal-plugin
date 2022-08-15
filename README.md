@@ -33,11 +33,11 @@
 
 | Action Name | Description | Format | Data | On Hold | 
 | --- | --- | --- | --- | --- |
-| Get Color From Mouse | Color Picker: Text Name Style | Get Color From Mouse and save to [1]  |  1. Type: choice<Br> Default: 0<br> Possible choices: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] |  No |
-| Save/Load Colors | Color Picker: Last Mouse Location - X | [1] colors to OR from file to [2] | 1. Type: choice<br>Default: Save <br>Possible choices: ['Save', 'Load'] 2. Type: file   Default: Default  |  No |
-| Get Color from (X, Y) | Color Picker: Last Mouse Location - Y | Get Color From Position X:[1] Y:[2] Value Name: [3] | 1. Type: number Default: 0 <br>Min Value: -50000 / Max Value: 50000 <br>2. Type: number<br>Default: 0 <br>3. Select Custom Name  | No  |
-| Copy Color to Clipboard | Color Picker: Current Config Loaded | Copy [2] to clipboard from Button [1] | 1. Type: choice   Default: Current Possible choices: ['Current', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] <br> 2. Type: choice <br>Default: HEX Possible choices: ['HEX', 'RGB', 'INT', 'NAME', 'OBS']  |  No |
-| Change Name Style | Color Picker: Current Config Loaded | Change the naming style to:[1] | 1. Type: choice <br> Default: Basic Possible choices: ['Basic', 'Full', 'Best of']  |  No |
+| Get Color From Mouse | Get Color from Mouse | Get Color From Mouse and save to [1]  |  1. Type: choice<Br> Default: 0<br> Possible choices: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] |  No |
+| Save/Load Colors | Save / Load Colors to or from config | [1] colors to OR from file to [2] | 1. Type: choice<br>Default: Save <br>Possible choices: ['Save', 'Load'] 2. Type: file   Default: Default  |  No |
+| Get Color from (X, Y) | Get Color from (X, Y) location | Get Color From Position X:[1] Y:[2] Value Name: [3] | 1. Type: number Default: 0 <br>Min Value: -50000 / Max Value: 50000 <br>2. Type: number<br>Default: 0 <br>3. Select Custom Name  | No  |
+| Copy Color to Clipboard | Copy Color Code / Name to Clipboard | Copy [2] to clipboard from Button [1] | 1. Type: choice   Default: Current Possible choices: ['Current', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'] <br> 2. Type: choice <br>Default: HEX Possible choices: ['HEX', 'RGB', 'INT', 'NAME', 'OBS']  |  No |
+| Change Name Style | Change Naming Style for Color Names | Change the naming style to:[1] | 1. Type: choice <br> Default: Basic Possible choices: ['Basic', 'Full', 'Best of']  |  No |
 </details>
 
 
