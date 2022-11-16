@@ -1,3 +1,5 @@
+## Fixed Plugin saying it had an update when in reality it did not.
+
 ## GENERAL FIXES
 Newly created states now have their own group
 Fixed duplicates in config file when saving
