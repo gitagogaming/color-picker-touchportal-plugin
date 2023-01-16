@@ -1,15 +1,4 @@
-## Fixed Plugin saying it had an update when in reality it did not.
+# Added macOS comptatibility, Thank you mthoms for the request and testing.
 
-## GENERAL FIXES
-Newly created states now have their own group
-Fixed duplicates in config file when saving
-Plugin File Size is 63% Smaller
+# No other signifcant changes, if you have any requests please post on Github or Discord.
 
-### NEW/UPDATED ACTIONS
-Change Color Naming Style - Basic, Full, Best Of (30k+ names)
-Save and Load multiple color palettes from file
-
-### NEW STATES
-Current Color Text Style - .state.current_text_name_style
-Current Loaded Config  - .state.config_loaded
-Last X and Y location of mouse when color selected  -  .state.last_mouse_x / .state.last_mouse_y
