@@ -1,11 +1,12 @@
 # V1.6
 ##  Added macOS comptatibility. 
 
+--
+
 # V1.4 
+### Fixed Plugin saying it had an update when in reality it did not.
 
-## Fixed Plugin saying it had an update when in reality it did not.
-
-## GENERAL FIXES
+### GENERAL FIXES
 Newly created states now have their own group
 Fixed duplicates in config file when saving
 Plugin File Size is 63% Smaller
