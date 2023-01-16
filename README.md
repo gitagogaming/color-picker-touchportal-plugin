@@ -1,4 +1,4 @@
-![pngwing com (10)](https://user-images.githubusercontent.com/76603653/152662488-5be85fa8-fc2a-44a1-8698-0f0e07111ad4.png)
+![color_picker](https://user-images.githubusercontent.com/76603653/212703874-820b0238-e079-4b33-b764-39022709bc11.png)
 
 
 # Color Picker for TouchPortal
