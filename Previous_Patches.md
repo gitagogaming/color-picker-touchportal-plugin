@@ -1,5 +1,9 @@
+# V1.7.0
+## Fixed Issue with Get Color from (x,y) not creating states
+
+
 # V1.6
-##  Added macOS comptatibility. 
+##  Added macOS & Linux comptatibility. 
 
 --
 
