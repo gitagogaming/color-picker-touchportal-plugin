@@ -5,7 +5,6 @@
 # V1.6
 ### Added macOS & Linux comptatibility. 
 
---
 
 # V1.4 
 ### Fixed Plugin saying it had an update when in reality it did not.
