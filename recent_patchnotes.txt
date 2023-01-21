@@ -1,4 +1,4 @@
-# Added macOS comptatibility, Thank you mthoms for the request and testing.
-
-# No other signifcant changes, if you have any requests please post on Github or Discord.
-
+# V1.7.0
+Fixed Issue with Get Color from (x,y) not creating states
+# V1.6.0
+Added macOS comptatibility, Thank you mthoms for the request and testing.
